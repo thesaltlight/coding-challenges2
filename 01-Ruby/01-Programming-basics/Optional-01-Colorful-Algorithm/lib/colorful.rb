@@ -1,2 +1,2 @@
-def colorful
+def colorful?(number)
 end
